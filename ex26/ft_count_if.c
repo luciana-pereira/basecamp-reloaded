@@ -6,11 +6,11 @@
 /*   By: lucperei <lucperei@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/03/26 17:32:53 by lucperei          #+#    #+#             */
-/*   Updated: 2022/03/26 17:48:51 by lucperei         ###   ########.fr       */
+/*   Updated: 2022/03/29 20:24:35 by lucperei         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-int	ft_count_if(char **tab, int(*f)(char*))
+int	ft_count_if(char **tab, int (*f)(char*))
 {
 	int	i;
 	int	n;
