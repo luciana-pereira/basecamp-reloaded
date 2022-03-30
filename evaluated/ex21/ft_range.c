@@ -6,7 +6,7 @@
 /*   By: lucperei <lucperei@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/03/26 04:46:28 by lucperei          #+#    #+#             */
-/*   Updated: 2022/03/26 05:31:52 by lucperei         ###   ########.fr       */
+/*   Updated: 2022/03/29 20:02:10 by lucperei         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,16 +17,45 @@ int	*ft_range(int min, int max)
 	int	*n;
 	int	i;
 
-	i = 0;
-	if (min >= max)
+	if (min > max)
 	{
 		return (NULL);
 	}
-	n = (int *)malloc((max - min + 1) * sizeof(int));
-	while (i <= (max - min))
+	if (!(n = (int *)malloc(sizeof(int) * (max - min))))
 	{
-		n[i] = min + i;
+		return (NULL);
+	}
+	i = 0;
+	while (min < max)
+	{
+		n[i] = min;
 		i++;
+		min++;
 	}
 	return (n);
+}
+
+#include <stdio.h>
+
+int	main(void)
+{
+	int i;
+	int a;
+	int b;
+	int *range;
+
+	i = 0;
+	a = 476;
+	b = -174;
+	range = ft_range(a, b);
+	// if (!range)
+	// {
+	// 	printf("null\n");
+	// }
+		while (i < (b - a + 1))
+		{
+			printf("%d\n", range[i]);
+			i++;
+		}
+	return (0);
 }
