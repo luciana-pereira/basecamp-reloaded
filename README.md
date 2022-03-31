@@ -31,4 +31,6 @@ Este repositorio contém as atividades realizadas por mim, durante o **_Basecamp
 * [x] [Ex22 - ft_abs](https://github.com/luciana-pereira/basecamp-reloaded/tree/master/evaluated/ex22)
 * [x] [Ex23 - ft_point](https://github.com/luciana-pereira/basecamp-reloaded/tree/master/evaluated/ex23)
 
+✅ **Done!!!** - **_Evaluation: 100%_**
+
 ***Não esqueça de deixar sua** ⭐
