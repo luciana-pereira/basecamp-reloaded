@@ -33,4 +33,11 @@ Este repositorio contém as atividades realizadas por mim, durante o **_Basecamp
 
 ✅ **Done!!!** - **_Evaluation: 100%_**
 
+**💡 Dicas uteis:**
+- Se atente ao enunciado.
+- Realize somente o que e realizado no enunciado.
+- E o mais importante 👇☺️
+
 ***Não esqueça de deixar sua** ⭐
+
+**Boa sorte e aproveite toda está experiência CADETES 👩‍🚀👨‍🚀!**
