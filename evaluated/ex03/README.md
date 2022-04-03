@@ -1,7 +1,7 @@
-# EX03 - FIND_SH
+# EX03 - FIND_SH 🔎
 
 ## Objetivo
-O objetivo deste exercício é que o comando dentro do arquivo realize a busca de todos os arquivos do diretório atual e subdiretórios que terminam com **.sh** e exibam no terminal com o comando `./find_sh.sh | cat -e` os nomes dos arquivos **sem o .sh**.
+O objetivo deste exercício é que o comando dentro do arquivo realize a busca de todos os arquivos do diretório atual e subdiretórios que terminam com **.sh** e exibam no terminal com o comando **`./find_sh.sh | cat -e`** os nomes dos arquivos **_sem_** o **.sh**.
 
 Exemplo de saída:
 
