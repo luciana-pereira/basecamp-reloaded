@@ -33,6 +33,12 @@ Este repositorio contém as atividades realizadas por mim, durante o **_Basecamp
 
 ✅ **Done!!!** - **_Evaluation: 100%_**
 
+**Links uteis:**
+- **[Man pages](https://man7.org/linux/man-pages/index.html)**
+- **[Ideone](https://ideone.com/)**
+- **[Python Tutor](https://pythontutor.com/c.html#mode=edit)**
+
+
 **💡 Dicas uteis:**
 - Se atente ao enunciado.
 - Realize somente o que e realizado no enunciado.
