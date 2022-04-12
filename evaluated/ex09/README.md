@@ -1,4 +1,4 @@
-# EX09 -  FT_ft 
+# EX09 -  FT_FT
 
 ## Objetivo
 Criar uma função que leve um ponteiro para int como parâmetro e **_defina o valor "42"_** 
