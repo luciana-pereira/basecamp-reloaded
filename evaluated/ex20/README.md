@@ -1,7 +1,7 @@
 # EX20 - FT_STRDUP
 
 ## Objetivo
-O objetivo deste exercício é criar uma função que reproduza o comportamento da função strdup (man strdup).
+O objetivo deste exercício é criar uma função que reproduza o comportamento da **função strdup (man strdup)**.
 
 💡 **Lembre-se:** <br/>
 - Fique atento ao que o enunciado pede e execute somente o que e solicitado.
