@@ -1,4 +1,4 @@
-# _Basecamp Reloaded_
+# _Basecamp Reloaded_ 🏕️
 
 Este repositorio contém as atividades realizadas por mim, durante o **_Basecamp_Reloaded_ da _42SP_**, realizado em **23 de Março 2022** e finalizado em **27 de Março de 2022**. Ele possui conceitos básicos aprendidos durante o Basecamp como funções, loops, ponteiros entre outros.
 
